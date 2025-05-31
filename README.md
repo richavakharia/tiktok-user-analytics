@@ -1,4 +1,4 @@
-# TikTok User Analytics
+# TikTok User Analytics (Java)
 
 This project simulates the backend of a simple TikTok analytics system using Java. It was developed independently to practice data handling, test-driven development, and foundational data analysis in an object-oriented environment.
 
